@@ -1,6 +1,6 @@
 FROM alpine:3.9
 
-MAINTAINER guanxuejun "guanxuejun@gmail.com"
+LABEL maintainer="guanxuejun <guanxuejun@gmail.com>"
 # source https://hub.docker.com/_/node
 # script https://github.com/nodejs/docker-node/blob/a8dbfa5c7cac9dca9145c6f429cd2c4f11176707/8/alpine/Dockerfile
 # add mirrors.ustc.edu.cn to apk repo
